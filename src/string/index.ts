@@ -2,3 +2,11 @@ export * from "./CamelCase/camelcase-v1";
 export * from "./Captalize/captalize-v1";
 export * from "./slugify/Slugify-v1";
 export * from "./Truncate/truncate-v1";
+export * from "./KababCase/Kababcase"
+export * from "./snakeCase/snakeCasev1"
+export * from "./reverseString/reverseString"
+export * from "./isPalindrome/isPalindrom"
+export * from "./countWords/countWords"
+export * from "./removeSpace/removeSpace"
+export * from "./randomstring/randomstrin"
+export * from "./maskEmail/maskEmail"
