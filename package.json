@@ -1,0 +1,23 @@
+{
+  "name": "devutils-js",
+  "version": "1.0.5",
+  "description": "Just i working check",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "devutils",
+    "utilities",
+    "devkit"
+  ],
+  "author": "underctrl",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
+  }
+}
