@@ -1,3 +1,4 @@
-export function slugify(string:string){
-    return string.toLowerCase().replace()
+export function slugify(string:string , join?:string){
+    return string.toLowerCase().replace(/\s+/g, join ? join:"-")
 }
+
